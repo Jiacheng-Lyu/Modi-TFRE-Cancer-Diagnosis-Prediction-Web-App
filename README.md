@@ -22,4 +22,4 @@ The following package / library versions were used in this study:
 * *models*: which contains all the models for each of input features and each of prediction tasks.
 
 ## Link To The Web Application
-Diagnosis for cancers ()
+Diagnosis for cancers (https://modi-tfre-diagnosis-web.streamlit.app)
