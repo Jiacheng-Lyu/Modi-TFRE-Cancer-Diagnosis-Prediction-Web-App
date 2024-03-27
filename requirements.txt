@@ -1,0 +1,5 @@
+streamlit==1.28.2
+numpy==1.26.0
+scikit-learn==1.2.1
+joblib==1.2.0
+Umap-learn==0.5.3
